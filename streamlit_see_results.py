@@ -15,6 +15,8 @@ drop_cols = [
     'bottom_n_ascending',
     'bottom_n',
     'bottom_n_metrics',
+    'bottom_n_to_remove',
+'Unnamed:0',
 ]
 
 
